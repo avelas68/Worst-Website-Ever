@@ -1,0 +1,12 @@
+<HTML>
+    <Body>
+        <style>
+            h1{
+                color:red;
+            }
+        </style>
+        <h1>
+        Website For the Blind
+        </h1>
+    </Body>
+</HTML>
